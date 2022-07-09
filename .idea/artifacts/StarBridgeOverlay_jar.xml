@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StarBridgeOverlay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StarBridgeOverlay_jar</output-path>
+    <root id="archive" name="StarBridgeOverlay.jar">
+      <element id="module-output" name="StarBridgeOverlay" />
+    </root>
+  </artifact>
+</component>
